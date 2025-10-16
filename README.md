@@ -1,4 +1,4 @@
-If you use any component of this repository, please cite:
+If you use this repository, please cite:
 
 S. Samudrala et al., "Performance Analysis of Zero-Knowledge Proofs," 2024 IEEE International Symposium on Workload Characterization (IISWC), Vancouver, BC, Canada, 2024, pp. 144-155, doi: 10.1109/IISWC63097.2024.00022.
 
