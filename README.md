@@ -1,3 +1,19 @@
+If you use any component of this repository, please cite:
+
+S. Samudrala et al., "Performance Analysis of Zero-Knowledge Proofs," 2024 IEEE International Symposium on Workload Characterization (IISWC), Vancouver, BC, Canada, 2024, pp. 144-155, doi: 10.1109/IISWC63097.2024.00022.
+
+@INPROCEEDINGS{10763818,
+  author={Samudrala, Saichand and Wu, Jiawen and Chen, Chen and Shan, Haoxuan and Ku, Jonathan and Chen, Yiran and Rajendran, Jeyavijayan},
+  booktitle={2024 IEEE International Symposium on Workload Characterization (IISWC)}, 
+  title={Performance Analysis of Zero-Knowledge Proofs}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={144-155},
+  keywords={Performance evaluation;Data privacy;Protocols;Microarchitecture;Codes;Scalability;Bandwidth;Software;Performance analysis;Optimization},
+  doi={10.1109/IISWC63097.2024.00022}}
+
+
 # Performance Analysis of Zero Knowledge Proofs
 
 ## OS: Linux Ubuntu
